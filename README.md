@@ -14,6 +14,7 @@ A simple Python program to manage student grades, calculate their average, and c
 Follow the on-screen instructions to enter student data and view reports.
 
 📖 Features
+
 ✅ Add student names and grades.
 
 ✅ Automatically calculate grade averages.
@@ -21,6 +22,7 @@ Follow the on-screen instructions to enter student data and view reports.
 ✅ Classify students (A, B, C, D, F).
 
 ✅ Display a formatted student report.
+
 
 📝 Example Output
 
@@ -40,6 +42,7 @@ Enter grade for subject 3: 80
 Name        Grades      Average    Classification  
 John Doe    [85, 90, 80]   85.00      B  
 ------------------------------------------------  
+
 
 👨‍💻 Author
 Shady Elsawy
