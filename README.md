@@ -25,11 +25,11 @@ A simple yet powerful Python program to manage student grades, calculate their a
    python main.py
 3. **Follow the On-Screen Instructions:**
    
-   -Choose 1 to input student grades.
+   - Choose 1 to input student grades.
    
-   -Choose 2 to display the student report.
+   - Choose 2 to display the student report.
    
-   -Choose 0 to exit the program.
+   - Choose 0 to exit the program.
    
 📝 Example Output
 
@@ -60,15 +60,15 @@ Key Functions
 
 2. class_of_grade(average):
 
-- Classifies the student's performance based on their average grade:
+   - Classifies the student's performance based on their average grade:
    
-   - A: 90–100
-   
-   - B: 80–89
-   
-   - C: 70–79
-   
-   - D: 60–69
+      - A: 90–100
+      
+      - B: 80–89
+      
+      - C: 70–79
+      
+      - D: 60–69
    
    - F: Below 60
 
