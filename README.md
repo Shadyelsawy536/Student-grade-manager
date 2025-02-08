@@ -29,7 +29,7 @@ Follow the on-screen instructions to enter student data and view reports.
 🎓 Student Grade Management System  
 1. Input student grades  
 2. Display student report  
-0. Exit  
+0. Exit
 Choose an operation (1, 2, or 0 to exit): 1  
 
 Enter student's name: John Doe  
